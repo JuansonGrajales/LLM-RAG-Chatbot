@@ -40,3 +40,5 @@ After the build and run process completes, access the chatbot UI at `http://loca
 
 ## Source
 The tutorial for building this chatbot is available at [Real Python by Harrison Hoffmam](https://realpython.com/build-llm-rag-chatbot-with-langchain/#step-5-deploy-the-langchain-agent)
+
+![Demo](./assets/langchain_rag_chatbot_demo.gif)
